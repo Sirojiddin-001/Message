@@ -2,9 +2,9 @@
   "name": "node_chat",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "functions/index.js",
   "scripts": {
-    "start": "node functions/index.js",
+    "start": "npm i && node functions/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],
